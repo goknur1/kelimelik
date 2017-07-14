@@ -1,0 +1,20 @@
+Index: app/src/main/java/com/goknur/kelimelik/MainActivity.java
+===================================================================
+--- app/src/main/java/com/goknur/kelimelik/MainActivity.java	(date 1499683781000)
++++ app/src/main/java/com/goknur/kelimelik/MainActivity.java	(date 1499683781000)
+@@ -1,15 +0,0 @@
+-package com.goknur.kelimelik;
+-
+-import android.support.v7.app.AppCompatActivity;
+-import android.os.Bundle;
+-
+-public class MainActivity extends AppCompatActivity {
+-
+-    @Override
+-    protected void onCreate(Bundle savedInstanceState) {
+-        super.onCreate(savedInstanceState);
+-        setContentView(R.layout.activity_main);
+-        System.out.print("asdada");
+-
+-    }
+-}

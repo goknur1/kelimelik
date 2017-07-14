@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671702268837",
+    "firebase_url": "https://kelimelik-3af49.firebaseio.com",
+    "project_id": "kelimelik-3af49",
+    "storage_bucket": "kelimelik-3af49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671702268837:android:a7a33a878e705147",
+        "android_client_info": {
+          "package_name": "com.goknur.kelimelik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671702268837-n1o8hpnr8e5ffuc50jvcdg29m1809uof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goknur.kelimelik",
+            "certificate_hash": "7547be696d7292d030e800ed2619deb803043b44"
+          }
+        },
+        {
+          "client_id": "671702268837-9d0tt4n632b0fper7psfltsohj99cevv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkRnk-ybsIOMtVtyHOQbo6Occ9p7QrQ0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671702268837-9d0tt4n632b0fper7psfltsohj99cevv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

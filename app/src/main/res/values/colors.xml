@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#ba4294</color>
+    <color name="colorPrimaryDark">#fbfcfd</color>
+    <color name="colorAccent">#c0f185aa</color>
+    <color name="arkaplan">#c0f185aa</color>
 </resources>

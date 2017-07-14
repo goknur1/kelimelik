@@ -2,53 +2,71 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:layout_width="match_parent"
               android:layout_height="match_parent"
-              android:background="@color/arkaplan"
               android:orientation="vertical">
 
     <TextView
-        android:id="@+id/txtUserInfo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:layout_margin="45dp"
-        android:gravity="center"
-        android:padding="10dp"
-        android:text="Hoşgeldiniz"
+        android:text="Kelime"
         android:textColor="@color/colorPrimary"
-        android:textSize="22sp"
-        android:textStyle="bold"/>
-
-    <Button
-        android:id="@+id/oyun_oyna_btn"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="16dp"
-        android:background="@color/colorPrimary"
-        android:onClick="Tıklandı"
-        android:text="oyun oyna"
-        android:textColor="@color/colorPrimaryDark"
+        android:textSize="50sp"
+        android:textStyle="italic"
         />
 
     <Button
-        android:id="@+id/sıralama_btn"
+
+        android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:background="@color/colorPrimary"
-        android:onClick="Tıklandı"
-        android:text="sıralamam"
+        android:text="button1"
         android:textColor="@color/colorPrimaryDark"
+        android:textSize="20dp"
+        android:textStyle="bold"
+
         />
 
     <Button
-        android:id="@+id/çık_btn"
+        android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:background="@color/colorPrimary"
-        android:onClick="Tıklandı"
-        android:text="çık"
+        android:text="button2"
         android:textColor="@color/colorPrimaryDark"
+        android:textSize="20dp"
+        android:textStyle="bold"
 
+
+        />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimary"
+        android:text="button3"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="20dp"
+        android:textStyle="bold"
+
+
+        />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimary"
+        android:text="button4"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="20dp"
+        android:textStyle="bold"
 
         />
 
