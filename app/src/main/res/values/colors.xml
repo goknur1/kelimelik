@@ -4,4 +4,7 @@
     <color name="colorPrimaryDark">#fbfcfd</color>
     <color name="colorAccent">#c0f185aa</color>
     <color name="arkaplan">#c0f185aa</color>
+    <color name="kırmızı">#d41215</color>
+    <color name="yeşil">#17a320</color>
+
 </resources>

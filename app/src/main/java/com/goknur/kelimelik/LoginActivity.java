@@ -119,6 +119,8 @@ public class LoginActivity extends BaseActivity implements
                             FirebaseUser user = mAuth.getCurrentUser();
 
                           /*  Intent intent = new Intent( getApplicationContext(), MainActivity.class );
+
+
                             Bundle bundle = new Bundle();
                             bundle.putString( "Deneme", user.getEmail() );
 
@@ -127,7 +129,7 @@ public class LoginActivity extends BaseActivity implements
  */
                             updateUI( user );
                         } else {
-                            // If sign in fails, display a message to the user.
+                            // If sign in fails, display activity_sıralama message to the user.
                             Log.w( TAG, "signInWithCredential:failure", task.getException() );
                             Toast.makeText( LoginActivity.this, "Kimlik doğrulama başarısız oldu.",
                                     Toast.LENGTH_SHORT ).show();
